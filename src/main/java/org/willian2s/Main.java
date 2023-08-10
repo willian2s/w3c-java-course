@@ -15,5 +15,8 @@ public class Main {
 
         DataType dataType = new DataType();
         dataType.Print();
+
+        TypeCasting typeCasting = new TypeCasting();
+        typeCasting.Print();
     }
 }
