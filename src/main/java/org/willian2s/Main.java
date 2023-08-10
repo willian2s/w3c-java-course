@@ -1,19 +1,19 @@
 package org.willian2s;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+/**
+ * This Class is entry point of the program Java.
+ */
 public class Main {
+    /**
+     * The main method.
+     *
+     * @param args Command line arguments
+     */
     public static void main(String[] args) {
-        // Press Cmd+. with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.println("Hello and welcome!");
+        Variable var = new Variable();
+        var.Print();
 
-        // Press Ctrl+F5 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
-
-            // Press F5 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing F9.
-            System.out.println("i = " + i);
-        }
+        DataType dataType = new DataType();
+        dataType.Print();
     }
 }
