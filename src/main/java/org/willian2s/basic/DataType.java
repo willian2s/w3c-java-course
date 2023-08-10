@@ -1,4 +1,4 @@
-package org.willian2s;
+package org.willian2s.basic;
 
 // Even though there are many numeric types in Java, the most used for numbers are int (for whole numbers) and double (for floating point numbers).
 

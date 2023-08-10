@@ -1,4 +1,4 @@
-package org.willian2s;
+package org.willian2s.basic;
 
 // The Java Math class has many methods that allows you to perform mathematical tasks on numbers.
 public class MathClass {

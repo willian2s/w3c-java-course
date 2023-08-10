@@ -1,4 +1,4 @@
-package org.willian2s;
+package org.willian2s.basic;
 
 public class SwitchCondition {
   public void Print(int day) {

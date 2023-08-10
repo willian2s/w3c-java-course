@@ -1,4 +1,4 @@
-package org.willian2s;
+package org.willian2s.basic;
 
 public class StringMethods {
   public void Print(String text, String find) {

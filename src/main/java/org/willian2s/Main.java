@@ -1,5 +1,7 @@
 package org.willian2s;
 
+import org.willian2s.basic.*;
+
 /**
  * This Class is entry point of the program Java.
  */
@@ -33,5 +35,8 @@ public class Main {
 
     SwitchCondition switchCondition = new SwitchCondition();
     switchCondition.Print(2);
+
+    Loops loops = new Loops();
+    loops.Print(1, 15);
   }
 }

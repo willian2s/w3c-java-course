@@ -1,4 +1,4 @@
-package org.willian2s;
+package org.willian2s.basic;
 
 // Names can contain letters, digits, underscores, and dollar signs
 // Names must begin with a letter

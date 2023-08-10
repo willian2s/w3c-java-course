@@ -1,4 +1,4 @@
-package org.willian2s;
+package org.willian2s.basic;
 
 // Java Conditions and If Statements
 // You already know that Java supports the usual logical conditions from mathematics:
