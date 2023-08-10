@@ -27,5 +27,11 @@ public class Main {
 
     MathClass mathClass = new MathClass();
     mathClass.Print();
+
+    IfElse ifElse = new IfElse();
+    ifElse.Print(1, 2);
+
+    SwitchCondition switchCondition = new SwitchCondition();
+    switchCondition.Print(2);
   }
 }

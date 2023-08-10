@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add Operators">
+    <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add StringMethos and MathClass">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691679292631</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feature: :sparkles: add StringMethos and MathClass">
+      <option name="closed" value="true" />
+      <created>1691685978737</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691685978737</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +151,7 @@
     <MESSAGE value="feature: :sparkles: add Variable and DataType class" />
     <MESSAGE value="feature: :sparkles: add Type casting" />
     <MESSAGE value="feature: :sparkles: add Operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add Operators" />
+    <MESSAGE value="feature: :sparkles: add StringMethos and MathClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add StringMethos and MathClass" />
   </component>
 </project>
