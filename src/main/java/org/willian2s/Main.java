@@ -21,5 +21,11 @@ public class Main {
 
     Operators operators = new Operators();
     operators.Print();
+
+    StringMethods stringMethods = new StringMethods();
+    stringMethods.Print("Hello World!", "!");
+
+    MathClass mathClass = new MathClass();
+    mathClass.Print();
   }
 }
