@@ -38,5 +38,9 @@ public class Main {
 
     Loops loops = new Loops();
     loops.Print(1, 15);
+
+    ArrayClass arrayClass = new ArrayClass();
+    arrayClass.Print();
+    
   }
 }
