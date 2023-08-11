@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add loops">
+    <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add Arrays">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/Main.java" afterDir="false" />
     </list>
@@ -161,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691688690296</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="feature: :sparkles: add Arrays">
+      <option name="closed" value="true" />
+      <created>1691755043131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691755043131</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +192,7 @@
     <MESSAGE value="feature: :sparkles: add StringMethos and MathClass" />
     <MESSAGE value="feature: :sparkles: add conditions" />
     <MESSAGE value="feature: :sparkles: add loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add loops" />
+    <MESSAGE value="feature: :sparkles: add Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add Arrays" />
   </component>
 </project>

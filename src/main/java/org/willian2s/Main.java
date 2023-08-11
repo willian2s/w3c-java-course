@@ -41,6 +41,23 @@ public class Main {
 
     ArrayClass arrayClass = new ArrayClass();
     arrayClass.Print();
-    
+
+    ClassMethods classMethods = new ClassMethods();
+    classMethods.method();
+    classMethods.withParameter("Willian");
+    String greeting = classMethods.withReturn("Willian");
+    System.out.println(greeting);
+
+    int intNum = classMethods.plusMethod(2, 3);
+    System.out.println("Int: " + intNum);
+    double doubleNum = classMethods.plusMethod(2.5, 3.5);
+    System.out.println("Double: " + doubleNum);
+
+    Recursion recursion = new Recursion();
+    int sum = recursion.sum(5);
+    System.out.println("Sum: " + sum);
+
+    int halting = recursion.sum(10, 5);
+    System.out.println("Halting: " + halting);
   }
 }
