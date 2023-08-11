@@ -1,6 +1,4 @@
-package org.willian2s;
-
-import org.willian2s.basic.*;
+package org.willian2s.basic;
 
 /**
  * This Class is entry point of the program Java.
