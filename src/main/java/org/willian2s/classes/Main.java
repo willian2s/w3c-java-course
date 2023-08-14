@@ -18,5 +18,10 @@ public class Main {
 
     // Static method
     myObj.myPublicMethod();
+
+    Encapsulation encapsulation = new Encapsulation();
+    System.out.println(encapsulation.getName());
+    encapsulation.setName("Silva");
+    System.out.println(encapsulation.getName());
   }
 }

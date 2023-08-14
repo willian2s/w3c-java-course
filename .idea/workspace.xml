@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add Methods">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add Modifiers">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/classes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -44,21 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/silva/develop/pessoal/w3c-java-course&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/silva/develop/pessoal/w3c-java-course/src/main/java/org/willian2s/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/silva/develop/pessoal/w3c-java-course",
+    "onboarding.tips.debug.path": "/Users/silva/develop/pessoal/w3c-java-course/src/main/java/org/willian2s/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.willian2s.basic" />
@@ -224,7 +223,8 @@
     <MESSAGE value="feature: :sparkles: add loops" />
     <MESSAGE value="feature: :sparkles: add Arrays" />
     <MESSAGE value="feature: :sparkles: add Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add Methods" />
+    <MESSAGE value="feature: :sparkles: add Modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add Modifiers" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
