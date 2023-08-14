@@ -65,7 +65,20 @@
       <recent name="org.willian2s.classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Packages">
+  <component name="RunManager" selected="Application.Inheritance">
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.willian2s.classes.Inheritance" />
+      <module name="w3c-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.willian2s.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.willian2s.basic.Main" />
       <module name="w3c-java-course" />
@@ -84,7 +97,7 @@
       <module name="w3c-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.willian2s.classes.*" />
+          <option name="PATTERN" value="org.willian2s.classes.Main" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,7 +110,7 @@
       <module name="w3c-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.willian2s.classes.*" />
+          <option name="PATTERN" value="org.willian2s.classes.Main" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Packages" />
         <item itemvalue="Application.org.willian2s.classes.Main" />
         <item itemvalue="Application.Main" />
