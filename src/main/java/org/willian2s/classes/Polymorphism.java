@@ -4,9 +4,16 @@ package org.willian2s.classes;
 //
 // Like we specified in the previous chapter; Inheritance lets us inherit attributes and methods from another class.
 // Polymorphism uses those methods to perform different tasks. This allows us to perform a single action in different ways.
-class Animal {
-  public void animalSound() {
-    System.out.println("The animal makes a sound");
+
+// Why And When To Use Abstract Classes and Methods?
+// To achieve security - hide certain details and only show the important details of an object.
+//
+// Note: Abstraction can also be achieved with Interfaces, which you will learn more about in the next chapter.
+abstract class Animal {
+  abstract public void animalSound();
+
+  public void sleep() {
+    System.out.println("Zzz");
   }
 }
 
@@ -29,18 +36,16 @@ class Cat extends Animal {
 }
 
 class Eagle extends Animal {
-  public void fly() {
-    System.out.println("The eagle flies high");
+  public void animalSound() {
+    System.out.println("The eagle says: fly fly");
   }
 }
 
 public class Polymorphism {
   public static void main(String[] args) {
-    Animal animal = new Animal();
-    animal.animalSound();
-
     Dog dog = new Dog();
     dog.animalSound();
+    dog.sleep();
 
     Cat cat = new Cat();
     cat.animalSound();
@@ -50,6 +55,5 @@ public class Polymorphism {
 
     Eagle eagle = new Eagle();
     eagle.animalSound();
-    eagle.fly();
   }
 }
