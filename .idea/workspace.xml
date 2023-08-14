@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add Modifiers">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/classes/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/classes/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +67,9 @@
       <recent name="org.willian2s.classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Polymorphism">
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.willian2s.classes.Inheritance" />
+  <component name="RunManager" selected="Application.Enums">
+    <configuration name="Enums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.willian2s.classes.Enums" />
       <module name="w3c-java-course" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.willian2s.basic.Main" />
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.willian2s.classes.Inheritance" />
       <module name="w3c-java-course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.willian2s.basic.*" />
+          <option name="PATTERN" value="org.willian2s.classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enums" />
         <item itemvalue="Application.Polymorphism" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Packages" />
         <item itemvalue="Application.org.willian2s.classes.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
