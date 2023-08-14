@@ -9,51 +9,45 @@ package org.willian2s.classes;
 // To achieve security - hide certain details and only show the important details of an object.
 //
 // Note: Abstraction can also be achieved with Interfaces, which you will learn more about in the next chapter.
-abstract class Animal {
-  abstract public void animalSound();
+
+// Interfaces
+// Another way to achieve abstraction in Java, is with interfaces.
+//
+// An interface is a completely "abstract class" that is used to group related methods with empty bodies:
+//
+// Notes on Interfaces:
+// - Like abstract classes, interfaces cannot be used to create objects (in the example above, it is not possible to create an "Animal" object in the MyMainClass)
+// - Interface methods do not have a body - the body is provided by the "implement" class
+// - On implementation of an interface, you must override all of its methods
+// - Interface methods are by default abstract and public
+// - Interface attributes are by default public, static and final
+// - An interface cannot contain a constructor (as it cannot be used to create objects)
+//
+// Why And When To Use Interfaces?
+//  1) To achieve security - hide certain details and only show the important details of an object (interface).
+//
+//  2) Java does not support "multiple inheritance" (a class can only inherit from one superclass).
+//     However, it can be achieved with interfaces, because the class can implement multiple interfaces.
+//     Note: To implement multiple interfaces, separate them with a comma.
+interface Animal {
+  public void animalSound();
+
+  public void sleep();
+}
+
+class Pig implements Animal {
+  public void animalSound() {
+    System.out.println("The pig says: wee wee");
+  }
 
   public void sleep() {
     System.out.println("Zzz");
   }
 }
 
-class Pig extends Animal {
-  public void animalSound() {
-    System.out.println("The pig says: wee wee");
-  }
-}
-
-class Dog extends Animal {
-  public void animalSound() {
-    System.out.println("The dog says: bow wow");
-  }
-}
-
-class Cat extends Animal {
-  public void animalSound() {
-    System.out.println("The cat says: meow");
-  }
-}
-
-class Eagle extends Animal {
-  public void animalSound() {
-    System.out.println("The eagle says: fly fly");
-  }
-}
-
 public class Polymorphism {
   public static void main(String[] args) {
-    Dog dog = new Dog();
-    dog.animalSound();
-    dog.sleep();
-
-    Cat cat = new Cat();
-    cat.animalSound();
-
     Pig pig = new Pig();
     pig.animalSound();
-
-    Eagle eagle = new Eagle();
-    eagle.animalSound();
   }
 }
