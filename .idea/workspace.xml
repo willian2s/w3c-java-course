@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e45e127-92ac-4ad4-8fa4-aff4ab2d32b3" name="Changes" comment="feature: :sparkles: add Methods">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/basic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/willian2s/classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/willian2s/classes/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +49,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/silva/develop/pessoal/w3c-java-course/src/main/java/org/willian2s/Main.java&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/silva/develop/pessoal/w3c-java-course&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/silva/develop/pessoal/w3c-java-course/src/main/java/org/willian2s/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -220,5 +225,9 @@
     <MESSAGE value="feature: :sparkles: add Arrays" />
     <MESSAGE value="feature: :sparkles: add Methods" />
     <option name="LAST_COMMIT_MESSAGE" value="feature: :sparkles: add Methods" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
