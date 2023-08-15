@@ -34,10 +34,6 @@ public class Array {
     System.out.println(cars.size());
 
     // Loop through the array
-    for (int i = 0; i < cars.size(); i++) {
-      System.out.println(cars.get(i));
-    }
-    // or
     for (String car : cars) {
       System.out.println(car);
     }
