@@ -81,7 +81,20 @@
       <recent name="org.willian2s.classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dates">
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.willian2s.classes.Array" />
+      <module name="w3c-java-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.willian2s.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.willian2s.classes.Dates" />
       <module name="w3c-java-course" />
@@ -136,6 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Dates" />
         <item itemvalue="Application.UserInputs" />
         <item itemvalue="Application.org.willian2s.classes.Main" />
